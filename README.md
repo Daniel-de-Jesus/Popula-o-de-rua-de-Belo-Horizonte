@@ -8,4 +8,5 @@ Gráficos iniciais:
       
       Renda média mensal dos moradores de rua no período de 09/2020 à 12/2021.
       
-      Correlação entre número de moradores de rua e renda média mensal no período de 09/2020 à 12/2021.
+      Correlação entre número de moradores de rua e renda média mensal
+      no período de 09/2020 à 12/2021.
