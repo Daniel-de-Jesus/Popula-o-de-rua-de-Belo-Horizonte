@@ -11,6 +11,7 @@ Gráficos iniciais:
       * Correlação entre número de moradores de rua e renda média mensal
       no período de 09/2020 à 12/2021.
       
+
 Segunda parte:
      * Agora vamos estudar os dados de população vs tempo segundo seus subgrupos:
           *Cor/Raça
